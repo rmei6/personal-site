@@ -1,2 +1,2 @@
 # personal_site
-[Live Link](runqiangmei.com)
+[Live Link](https://runqiangmei.com)
